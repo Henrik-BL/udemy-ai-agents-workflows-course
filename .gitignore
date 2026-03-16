@@ -207,3 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 local.txt
+
+.idea/
+
+.vscode/t
